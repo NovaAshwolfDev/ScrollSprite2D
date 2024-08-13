@@ -16,7 +16,7 @@ To install the `ScrollSprite2D` GDExtension:
 
 1. Clone the repository into your Godot project directory.
     ```bash
-    git clone https://github.com/yourusername/ScrollSprite2D.git
+    git clone https://github.com/NovaTheFurryDev/ScrollSprite2D.git
     ```
 2. Open your Godot project and navigate to the `Project Settings` to enable the `ScrollSprite2D` extension.
 3. Add the `ScrollSprite2D` node to your scene from the node tree.
